@@ -1,16 +1,18 @@
-## Hi there 👋
+# Здравствуйте!
 
-<!--
-**Iak1122/Iak1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Игорь Казаков, и я являюсь junior python-разработчиком на фреймворке Django.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Что умею:
+- Backend: Django, Python
+- Database: PostgreSQL, SQLite
+- Другое: Git, Docker, Postman
+
+
+Проекты:
+
+[Химия](https://github.com/lad-nngu/thermopol-platform-back)
+
+[Генеалогия](https://github.com/lad-academy/genealogy-web-backend)
